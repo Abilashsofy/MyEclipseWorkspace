@@ -2,5 +2,21 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/Abirepo/SeleniumSnippets/Lib/testng-6.9.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
