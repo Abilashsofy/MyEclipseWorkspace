@@ -16,7 +16,7 @@ public class Snippets {
 	public void PT1() throws InterruptedException
 	{
 		driver1.get("https://uvcanautomate.in");
-		System.out.println("This is first repo");
+		System.out.println("This is first repo1");
 		driver1.quit();
 
 
